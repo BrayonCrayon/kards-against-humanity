@@ -1,0 +1,457 @@
+{
+    "expansions": [
+        {
+            "name": "Safe for Work",
+            "id": 1
+        }
+    ],
+    "black_cards": [
+        {
+            "text": "The quarterly team building exercise was ruined by _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's the real reason the printer isn't working___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The new office policy states that _______ is now mandatory during meetings.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Our startup's new product combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why did the IT department disappear for three hours___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to a successful presentation is _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's really in the break room fridge___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The new employee handbook specifically prohibits _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Today's motivational poster: _______ leads to success!",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The real reason for missing the deadline was _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "In a shocking twist, scientists discovered that _______ is the cure for boredom.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My new hobby combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's the secret ingredient in grandma's cookies___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The local museum's newest exhibit features _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "I tried to learn a new skill but got distracted by _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My GPS rerouted me because of _______ on the highway.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to winning any game show is _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My neighbor's unusual collection of _______ has won several awards.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The weather forecast predicts a 90% chance of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "According to Pinterest, you can fix anything with _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My attempt at a world record was ruined by _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to viral TikTok fame is _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's really inside those mystery flavor airheads___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My new self-help book is titled: '_______ Your Way to Success'.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "I would have won MasterChef if it weren't for _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The zoo's newest attraction combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My smart home assistant keeps suggesting _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret ingredient in this energy drink is _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My cat's strange obsession with _______ has gone too far.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next Olympic sport will combine _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's causing that strange noise in the attic___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My autobiography will be titled: 'A Life of _______ '.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The food truck's fusion menu features _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My plant died because I gave it too much _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The weirdest thing found in lost and found was _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My meditation app now includes guided _______ sessions.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The reason this flight is delayed: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My robot vacuum has developed a fear of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to a perfect sandwich is _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "I failed my driving test because of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My new podcast is just three hours of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The fortune cookie said _______ leads to _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The trending hashtag #_______ took over Twitter.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My virtual background accidentally revealed _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The reason I was late to the party: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        }
+    ],
+    "white_cards": [
+        {
+            "text": "Reply-all email chains",
+            "expansion_id": 1
+        },
+        {
+            "text": "Passive-aggressive sticky notes",
+            "expansion_id": 1
+        },
+        {
+            "text": "The office plant that won't die",
+            "expansion_id": 1
+        },
+        {
+            "text": "Mandatory fun activities",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one person who microwaves fish",
+            "expansion_id": 1
+        },
+        {
+            "text": "Pretending to be on mute",
+            "expansion_id": 1
+        },
+        {
+            "text": "The mysterious coffee maker smell",
+            "expansion_id": 1
+        },
+        {
+            "text": "Endless Zoom meetings",
+            "expansion_id": 1
+        },
+        {
+            "text": "The office WiFi password",
+            "expansion_id": 1
+        },
+        {
+            "text": "Standing desk evangelists",
+            "expansion_id": 1
+        },
+        {
+            "text": "Aggressive calendar invites",
+            "expansion_id": 1
+        },
+        {
+            "text": "The ancient version of Internet Explorer",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one working pen",
+            "expansion_id": 1
+        },
+        {
+            "text": "The office birthday committee",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dress code violations",
+            "expansion_id": 1
+        },
+        {
+            "text": "The broken thermostat",
+            "expansion_id": 1
+        },
+        {
+            "text": "Inspirational cat posters",
+            "expansion_id": 1
+        },
+        {
+            "text": "The office snack thief",
+            "expansion_id": 1
+        },
+        {
+            "text": "Accidentally sharing your screen",
+            "expansion_id": 1
+        },
+        {
+            "text": "The mysterious lunch smell",
+            "expansion_id": 1
+        },
+        {
+            "text": "A really enthusiastic weatherman",
+            "expansion_id": 1
+        },
+        {
+            "text": "Perfectly organized sock drawers",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one spatula that everyone fights over",
+            "expansion_id": 1
+        },
+        {
+            "text": "A surprisingly knowledgeable garden gnome",
+            "expansion_id": 1
+        },
+        {
+            "text": "Excessive amounts of glitter",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dad jokes at inappropriate moments",
+            "expansion_id": 1
+        },
+        {
+            "text": "A very determined squirrel",
+            "expansion_id": 1
+        },
+        {
+            "text": "Competitive power walking",
+            "expansion_id": 1
+        },
+        {
+            "text": "Extreme couponing gone wrong",
+            "expansion_id": 1
+        },
+        {
+            "text": "A flash mob of confused penguins",
+            "expansion_id": 1
+        },
+        {
+            "text": "A roomba that only moves in reverse",
+            "expansion_id": 1
+        },
+        {
+            "text": "Accidentally liking a post from 2012",
+            "expansion_id": 1
+        },
+        {
+            "text": "An orchestra of kazoos",
+            "expansion_id": 1
+        },
+        {
+            "text": "Bubble wrap that doesn't pop",
+            "expansion_id": 1
+        },
+        {
+            "text": "Charging five devices with one outlet",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dancing with a cardboard cutout",
+            "expansion_id": 1
+        },
+        {
+            "text": "Eating cereal with a fork",
+            "expansion_id": 1
+        },
+        {
+            "text": "Forgetting how stairs work",
+            "expansion_id": 1
+        },
+        {
+            "text": "Getting directions from a confused pigeon",
+            "expansion_id": 1
+        },
+        {
+            "text": "Hiding vegetables in a smoothie",
+            "expansion_id": 1
+        },
+        {
+            "text": "Installing updates for 47 years",
+            "expansion_id": 1
+        },
+        {
+            "text": "Juggling with water balloons",
+            "expansion_id": 1
+        },
+        {
+            "text": "Knitting a sweater for a tree",
+            "expansion_id": 1
+        },
+        {
+            "text": "Learning TikTok dances from your grandma",
+            "expansion_id": 1
+        },
+        {
+            "text": "Making eye contact with a painting",
+            "expansion_id": 1
+        },
+        {
+            "text": "Naming all your houseplants Bob",
+            "expansion_id": 1
+        },
+        {
+            "text": "Organizing your sock drawer by smell",
+            "expansion_id": 1
+        },
+        {
+            "text": "Professional pillow fighting",
+            "expansion_id": 1
+        },
+        {
+            "text": "Quantum physics explained by puppets",
+            "expansion_id": 1
+        },
+        {
+            "text": "Reading the entire terms and conditions",
+            "expansion_id": 1
+        },
+        {
+            "text": "Singing in the shower with autotune",
+            "expansion_id": 1
+        },
+        {
+            "text": "Taking selfies with garden gnomes",
+            "expansion_id": 1
+        },
+        {
+            "text": "Using interpretive dance in a presentation",
+            "expansion_id": 1
+        },
+        {
+            "text": "Wearing socks with sandals confidently",
+            "expansion_id": 1
+        },
+        {
+            "text": "Yoga for your pet goldfish",
+            "expansion_id": 1
+        }
+    ]
+} 

@@ -1,0 +1,237 @@
+{
+    "expansions": [
+        {
+            "name": "Final Fantasy XIV",
+            "id": 1
+        }
+    ],
+    "black_cards": [
+        {
+            "text": "The real reason Hildibrand solved the case: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What caused the next Calamity___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The Warrior of Light's secret hobby is combining _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why did the party wipe at 1%___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next Alliance Raid will feature _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Tataru's latest business venture: _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The real reason Zenos is obsessed with _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's actually inside the Crystal Tower___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The Wandering Minstrel's next extreme trial will add _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next housing decoration trend combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why is there a Lalafell in my _______?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to clearing Ultimate is _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Godbert Manderville's new invention: _______ powered by _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next job class will specialize in _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's really inside the Moogle's pom-pom___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The real reason for the server maintenance: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next Gold Saucer attraction features _______ racing.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Y'shtola's latest research combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The true identity of Fandaniel is _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's actually written in Urianger's diary___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next seasonal event will celebrate _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "Estinien's lance is actually made of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next Trust dungeon will feature _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What really happens in the Novice Network___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret ingredient in Warrior of Light's food buff: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        }
+    ],
+    "white_cards": [
+        {
+            "text": "A Lalafell riding a Roegadyn",
+            "expansion_id": 1
+        },
+        {
+            "text": "Accidentally using Superbolide at full health",
+            "expansion_id": 1
+        },
+        {
+            "text": "An entire FC of catgirls",
+            "expansion_id": 1
+        },
+        {
+            "text": "Bahamut's interpretive dance routine",
+            "expansion_id": 1
+        },
+        {
+            "text": "Collecting 999 minions",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dancing Manderville style in Limsa",
+            "expansion_id": 1
+        },
+        {
+            "text": "Emet-Selch's dramatic hand gestures",
+            "expansion_id": 1
+        },
+        {
+            "text": "Failed housing lottery attempts",
+            "expansion_id": 1
+        },
+        {
+            "text": "Getting rescued into instant death",
+            "expansion_id": 1
+        },
+        {
+            "text": "Hildibrand's eyebrows",
+            "expansion_id": 1
+        },
+        {
+            "text": "Island Sanctuary vegetables",
+            "expansion_id": 1
+        },
+        {
+            "text": "Jumping off Kugane tower repeatedly",
+            "expansion_id": 1
+        },
+        {
+            "text": "Keeping the sprout icon forever",
+            "expansion_id": 1
+        },
+        {
+            "text": "Limit Break 3 on trash mobs",
+            "expansion_id": 1
+        },
+        {
+            "text": "Mentor crown collectors",
+            "expansion_id": 1
+        },
+        {
+            "text": "Namazu doing synchronized swimming",
+            "expansion_id": 1
+        },
+        {
+            "text": "Orchestrion roll gambling addiction",
+            "expansion_id": 1
+        },
+        {
+            "text": "Perfectly timed rescue trolling",
+            "expansion_id": 1
+        },
+        {
+            "text": "Queue times for DPS",
+            "expansion_id": 1
+        },
+        {
+            "text": "Rescue macros with sound effects",
+            "expansion_id": 1
+        },
+        {
+            "text": "Spamming emotes in Limsa Lominsa",
+            "expansion_id": 1
+        },
+        {
+            "text": "Tank stance drama",
+            "expansion_id": 1
+        },
+        {
+            "text": "Urianger's thesaurus collection",
+            "expansion_id": 1
+        },
+        {
+            "text": "Warrior of Light's permanent head nod",
+            "expansion_id": 1
+        },
+        {
+            "text": "Yoshi-P's leather jacket",
+            "expansion_id": 1
+        }
+    ]
+} 

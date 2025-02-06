@@ -1,0 +1,360 @@
+{
+    "expansions": [
+        {
+            "name": "Teenagers",
+            "id": 1
+        }
+    ],
+    "black_cards": [
+        {
+            "text": "My high school yearbook quote combines _______, _______, and _______.",
+            "pick": 3,
+            "expansion_id": 1
+        },
+        {
+            "text": "?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The school principal banned _______ after finding _______ in the cafeteria.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My excuse for not doing homework: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The real reason the popular kids are popular: _______, _______, and _______.",
+            "pick": 3,
+            "expansion_id": 1
+        },
+        {
+            "text": "The school dance theme this year___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My parents don't understand why I need _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The substitute teacher quit after seeing _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The new TikTok challenge: _______, _______, and _______ while at school.",
+            "pick": 3,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's in my backpack___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The school's new club combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The cafeteria's mystery meat is actually _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My parents found _______, _______, and _______ in my room.",
+            "pick": 3,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why am I grounded___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The school talent show was ruined by _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My college application essay: How _______ changed my life.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The real reason I changed schools: _______, _______, and _______.",
+            "pick": 3,
+            "expansion_id": 1
+        },
+        {
+            "text": "The group chat is blowing up because of _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My summer job involves _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The school's security camera caught _______ in the hallway at midnight.",
+            "pick": 1,
+            "expansion_id": 1
+        }
+    ],
+    "white_cards": [
+        {
+            "text": "The back of the school bus",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one bathroom no one uses",
+            "expansion_id": 1
+        },
+        {
+            "text": "The mall food court at 3 PM",
+            "expansion_id": 1
+        },
+        {
+            "text": "Behind the gym during lunch",
+            "expansion_id": 1
+        },
+        {
+            "text": "The local Starbucks with free WiFi",
+            "expansion_id": 1
+        },
+        {
+            "text": "An empty parking lot after midnight",
+            "expansion_id": 1
+        },
+        {
+            "text": "The principal's secret mini-fridge",
+            "expansion_id": 1
+        },
+        {
+            "text": "A bedroom covered in band posters",
+            "expansion_id": 1
+        },
+        {
+            "text": "The abandoned MySpace headquarters",
+            "expansion_id": 1
+        },
+        {
+            "text": "A Discord server for homework help",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one teacher who tries too hard to be cool",
+            "expansion_id": 1
+        },
+        {
+            "text": "The kid who peaked in middle school",
+            "expansion_id": 1
+        },
+        {
+            "text": "A guidance counselor having an existential crisis",
+            "expansion_id": 1
+        },
+        {
+            "text": "The gym teacher who can't do push-ups",
+            "expansion_id": 1
+        },
+        {
+            "text": "A mumble rapper with straight A's",
+            "expansion_id": 1
+        },
+        {
+            "text": "The cafeteria lady with a secret recipe",
+            "expansion_id": 1
+        },
+        {
+            "text": "A teen influencer with 12 followers",
+            "expansion_id": 1
+        },
+        {
+            "text": "Parents who think they're still hip",
+            "expansion_id": 1
+        },
+        {
+            "text": "The school mascot with an identity crisis",
+            "expansion_id": 1
+        },
+        {
+            "text": "A professional Minecraft YouTuber",
+            "expansion_id": 1
+        },
+        {
+            "text": "A calculator full of game cheats",
+            "expansion_id": 1
+        },
+        {
+            "text": "An energy drink collection",
+            "expansion_id": 1
+        },
+        {
+            "text": "A phone with a cracked screen protector",
+            "expansion_id": 1
+        },
+        {
+            "text": "Homework eaten by a virtual dog",
+            "expansion_id": 1
+        },
+        {
+            "text": "A playlist that's just one song 100 times",
+            "expansion_id": 1
+        },
+        {
+            "text": "Limited edition anime socks",
+            "expansion_id": 1
+        },
+        {
+            "text": "A diary full of emoji",
+            "expansion_id": 1
+        },
+        {
+            "text": "A TI-84 calculator with Doom installed",
+            "expansion_id": 1
+        },
+        {
+            "text": "Vintage 2022 memes",
+            "expansion_id": 1
+        },
+        {
+            "text": "A yearbook full of AI-generated students",
+            "expansion_id": 1
+        },
+        {
+            "text": "Pretending to understand Shakespeare",
+            "expansion_id": 1
+        },
+        {
+            "text": "Writing essays at 3 AM",
+            "expansion_id": 1
+        },
+        {
+            "text": "Staging a protest against Monday mornings",
+            "expansion_id": 1
+        },
+        {
+            "text": "Trying to make fetch happen",
+            "expansion_id": 1
+        },
+        {
+            "text": "Starting a band that only plays kazoos",
+            "expansion_id": 1
+        },
+        {
+            "text": "Practicing TikTok dances during class",
+            "expansion_id": 1
+        },
+        {
+            "text": "Turning everything into a meme",
+            "expansion_id": 1
+        },
+        {
+            "text": "Speed-running college applications",
+            "expansion_id": 1
+        },
+        {
+            "text": "Organizing a flash mob in the library",
+            "expansion_id": 1
+        },
+        {
+            "text": "Becoming famous for eating a pencil",
+            "expansion_id": 1
+        },
+        {
+            "text": "A secret club in the AV room",
+            "expansion_id": 1
+        },
+        {
+            "text": "The school's haunted vending machine",
+            "expansion_id": 1
+        },
+        {
+            "text": "A treehouse with better WiFi than the school",
+            "expansion_id": 1
+        },
+        {
+            "text": "The debate team's underground fight club",
+            "expansion_id": 1
+        },
+        {
+            "text": "A substitute teacher who's actually an alien",
+            "expansion_id": 1
+        },
+        {
+            "text": "The student who's secretly 300 years old",
+            "expansion_id": 1
+        },
+        {
+            "text": "A backpack that's actually a portal",
+            "expansion_id": 1
+        },
+        {
+            "text": "Textbooks written in meme format",
+            "expansion_id": 1
+        },
+        {
+            "text": "A scientific calculator that predicts the future",
+            "expansion_id": 1
+        },
+        {
+            "text": "Starting a pyramid scheme with lunch trades",
+            "expansion_id": 1
+        },
+        {
+            "text": "Turning homework into NFTs",
+            "expansion_id": 1
+        },
+        {
+            "text": "Creating a social media platform for plants",
+            "expansion_id": 1
+        },
+        {
+            "text": "A PhD in procrastination",
+            "expansion_id": 1
+        },
+        {
+            "text": "Professional chair spinning",
+            "expansion_id": 1
+        },
+        {
+            "text": "The ancient art of note passing",
+            "expansion_id": 1
+        },
+        {
+            "text": "Quantum physics explained with emojis",
+            "expansion_id": 1
+        },
+        {
+            "text": "A conspiracy theory about the lunch lady",
+            "expansion_id": 1
+        },
+        {
+            "text": "The school's secret underground arcade",
+            "expansion_id": 1
+        },
+        {
+            "text": "A resume written in Comic Sans",
+            "expansion_id": 1
+        },
+        {
+            "text": "The world's longest yeah boi",
+            "expansion_id": 1
+        },
+        {
+            "text": "A PowerPoint presentation about memes",
+            "expansion_id": 1
+        },
+        {
+            "text": "The lost AirPod graveyard",
+            "expansion_id": 1
+        }
+    ]
+} 

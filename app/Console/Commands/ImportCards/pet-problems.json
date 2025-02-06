@@ -1,0 +1,182 @@
+{
+    "expansions": [
+        {
+            "name": "Pet Problems",
+            "id": 1
+        }
+    ],
+    "black_cards": [
+        {
+            "text": "My cat's new Instagram account features _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why is the dog hiding under the bed___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The vet was surprised to find _______ in my pet's X-ray.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My pet's new trick combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The reason my goldfish looks depressed: _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "This year's pet fashion show features _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "The hamster escaped and now it's _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My parrot won't stop saying '_______.'",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The pet psychic says your animal's spirit animal is _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "What's really in that premium pet food___?",
+            "pick": 1,
+            "expansion_id": 1
+        }
+    ],
+    "white_cards": [
+        {
+            "text": "A cat plotting world domination",
+            "expansion_id": 1
+        },
+        {
+            "text": "A dog's Instagram account with more followers than you",
+            "expansion_id": 1
+        },
+        {
+            "text": "A hamster running a underground fight club",
+            "expansion_id": 1
+        },
+        {
+            "text": "A parrot that only speaks in movie quotes",
+            "expansion_id": 1
+        },
+        {
+            "text": "A pug's emotional support human",
+            "expansion_id": 1
+        },
+        {
+            "text": "A rabbit's self-help podcast",
+            "expansion_id": 1
+        },
+        {
+            "text": "Artisanal organic pet treats",
+            "expansion_id": 1
+        },
+        {
+            "text": "Cats judging your life choices",
+            "expansion_id": 1
+        },
+        {
+            "text": "Designer outfits for goldfish",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dogs with better healthcare than humans",
+            "expansion_id": 1
+        },
+        {
+            "text": "Emotional support tarantulas",
+            "expansion_id": 1
+        },
+        {
+            "text": "Fancy feast served on fine china",
+            "expansion_id": 1
+        },
+        {
+            "text": "Fish practicing synchronized swimming",
+            "expansion_id": 1
+        },
+        {
+            "text": "Guinea pig beauty pageants",
+            "expansion_id": 1
+        },
+        {
+            "text": "Hiring a pet life coach",
+            "expansion_id": 1
+        },
+        {
+            "text": "Luxury pet spas with cucumber water",
+            "expansion_id": 1
+        },
+        {
+            "text": "Meditation classes for anxious pets",
+            "expansion_id": 1
+        },
+        {
+            "text": "Pet DNA tests revealing royal ancestry",
+            "expansion_id": 1
+        },
+        {
+            "text": "Pet influencer meetups",
+            "expansion_id": 1
+        },
+        {
+            "text": "Pets with better social lives than you",
+            "expansion_id": 1
+        },
+        {
+            "text": "Professional pet food taste testers",
+            "expansion_id": 1
+        },
+        {
+            "text": "Reptile fashion week",
+            "expansion_id": 1
+        },
+        {
+            "text": "Snake yoga instructors",
+            "expansion_id": 1
+        },
+        {
+            "text": "Therapy sessions for fish with FOMO",
+            "expansion_id": 1
+        },
+        {
+            "text": "Tiny hats for hedgehogs",
+            "expansion_id": 1
+        },
+        {
+            "text": "Turtle speed dating events",
+            "expansion_id": 1
+        },
+        {
+            "text": "Unemployed show dogs",
+            "expansion_id": 1
+        },
+        {
+            "text": "Veterinary acupuncture for goldfish",
+            "expansion_id": 1
+        },
+        {
+            "text": "Yoga mats for cats",
+            "expansion_id": 1
+        },
+        {
+            "text": "Zoom calls for lonely pets",
+            "expansion_id": 1
+        }
+    ]
+} 

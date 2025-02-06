@@ -1,0 +1,182 @@
+{
+    "expansions": [
+        {
+            "name": "Internet Culture",
+            "id": 1
+        }
+    ],
+    "black_cards": [
+        {
+            "text": "The next viral TikTok trend combines _______ with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why is this meme trending___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "My social media algorithm thinks I'm obsessed with _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The secret to going viral is _______ and _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "What crashed the entire internet___?",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The next big social media platform is just _______ but with _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "My browser history reveals an unhealthy obsession with _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "This YouTuber's apology video blamed _______.",
+            "pick": 1,
+            "expansion_id": 1
+        },
+        {
+            "text": "The latest conspiracy theory claims that _______ controls _______.",
+            "pick": 2,
+            "expansion_id": 1
+        },
+        {
+            "text": "Why did my tweet go viral___?",
+            "pick": 1,
+            "expansion_id": 1
+        }
+    ],
+    "white_cards": [
+        {
+            "text": "A 10-hour loop of elevator music",
+            "expansion_id": 1
+        },
+        {
+            "text": "Accidentally liking a post from 2015",
+            "expansion_id": 1
+        },
+        {
+            "text": "An AI writing terrible poetry",
+            "expansion_id": 1
+        },
+        {
+            "text": "Becoming a meme without consent",
+            "expansion_id": 1
+        },
+        {
+            "text": "Clickbait that actually delivers",
+            "expansion_id": 1
+        },
+        {
+            "text": "Conspiracy theory Pinterest boards",
+            "expansion_id": 1
+        },
+        {
+            "text": "Dancing vegetables with googly eyes",
+            "expansion_id": 1
+        },
+        {
+            "text": "Deleting your entire search history",
+            "expansion_id": 1
+        },
+        {
+            "text": "Error 404: Humor not found",
+            "expansion_id": 1
+        },
+        {
+            "text": "Explaining memes to your grandparents",
+            "expansion_id": 1
+        },
+        {
+            "text": "Five-hour crafts that make no sense",
+            "expansion_id": 1
+        },
+        {
+            "text": "Forgetting to turn off the video filter",
+            "expansion_id": 1
+        },
+        {
+            "text": "Getting canceled for liking pineapple on pizza",
+            "expansion_id": 1
+        },
+        {
+            "text": "Instagram filters gone wrong",
+            "expansion_id": 1
+        },
+        {
+            "text": "Internet explorer trying its best",
+            "expansion_id": 1
+        },
+        {
+            "text": "LinkedIn influencers sharing obvious advice",
+            "expansion_id": 1
+        },
+        {
+            "text": "Living in airplane mode",
+            "expansion_id": 1
+        },
+        {
+            "text": "Meme templates from 2012",
+            "expansion_id": 1
+        },
+        {
+            "text": "NFTs of badly drawn stick figures",
+            "expansion_id": 1
+        },
+        {
+            "text": "Passive-aggressive email signatures",
+            "expansion_id": 1
+        },
+        {
+            "text": "Professional cat video critics",
+            "expansion_id": 1
+        },
+        {
+            "text": "Reddit karma farming",
+            "expansion_id": 1
+        },
+        {
+            "text": "Replying 'following' to every post",
+            "expansion_id": 1
+        },
+        {
+            "text": "Social media managers having meltdowns",
+            "expansion_id": 1
+        },
+        {
+            "text": "That one Facebook friend who never logs off",
+            "expansion_id": 1
+        },
+        {
+            "text": "The same tweet but in different fonts",
+            "expansion_id": 1
+        },
+        {
+            "text": "Trying to explain hashtags to aliens",
+            "expansion_id": 1
+        },
+        {
+            "text": "Unboxing videos of empty boxes",
+            "expansion_id": 1
+        },
+        {
+            "text": "Wikipedia editors fighting at 3 AM",
+            "expansion_id": 1
+        },
+        {
+            "text": "Your FBI agent's viewing recommendations",
+            "expansion_id": 1
+        }
+    ]
+} 
